@@ -1,5 +1,12 @@
 ### LOGARITH
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flogarith3&count_bg=%23EDDA6E&title_bg=%2375D7FB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+
+[![Solved.ac
+logarith](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 <!--
 **logarith3/logarith3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
