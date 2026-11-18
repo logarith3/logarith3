@@ -28,3 +28,5 @@ Computer Science student at Dongguk University, Seoul. Guitarist and songwriter,
 ## 📫 Contact
 
 [![Gmail](https://img.shields.io/badge/jh2future@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jh2future@gmail.com)
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=logarith3)](https://github.com/stats-organization/github-stats-extended)
