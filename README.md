@@ -25,6 +25,3 @@ Computer Science student at Dongguk University, Seoul. Guitarist and songwriter,
 
 **Interests:** Wave Digital Filters · circuit modeling · real-time audio · car audio
 
-## 📈 Problem Solving
-
-<!-- Paste your existing solved.ac card code here -->
