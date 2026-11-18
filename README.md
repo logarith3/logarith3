@@ -24,6 +24,3 @@ Computer Science student at Dongguk University, Seoul. Guitarist and songwriter,
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Interests:** Wave Digital Filters · circuit modeling · real-time audio · car audio
-
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=logarith3&layout=pie&langs_count=4&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=pie&langs_count=4&theme=blue_navy)
