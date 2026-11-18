@@ -25,3 +25,6 @@ Computer Science student at Dongguk University, Seoul. Guitarist and songwriter,
 
 **Interests:** Wave Digital Filters · circuit modeling · real-time audio · car audio
 
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/jh2future@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jh2future@gmail.com)
