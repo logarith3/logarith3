@@ -1,22 +1,30 @@
-### LOGARITH
+# Hi, I'm Junho Lee 👋
 
+**Audio DSP & embedded developer** — I model analog circuits in code and make them run in real time on small hardware.
+Computer Science student at Dongguk University, Seoul. Guitarist and songwriter, which is why I build the tools I want to play through.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flogarith3&count_bg=%23EDDA6E&title_bg=%2375D7FB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 🔧 Now
 
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+- Porting a **WDF-based Tube Screamer (TS808) model** from a JUCE plugin to the **Daisy Seed** (ARM Cortex-M7) — profiling CPU load, reducing heat, and documenting the results
+- Studying **modern C++** to redesign the WDF engine from scratch
+- Next: an **electric-vehicle active sound (e-ASD)** prototype — real-time sound synthesis driven by vehicle data
 
-[![Solved.ac logarith](http://mazassumnida.wtf/api/v2/generate_badge?boj=logarith)](https://solved.ac/logarith)
-<!--
-**logarith3/logarith3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎛️ Projects
 
-Here are some ideas to get you started:
+| Project | Description |
+|---|---|
+| TS808 on Daisy *(coming soon)* | Wave Digital Filter overdrive, ported and optimized for embedded hardware |
+| e-ASD *(planned)* | Vehicle-data-driven sound synthesis with a state machine and UART input |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JUCE](https://img.shields.io/badge/JUCE-8DC63F?style=flat-square&logo=juce&logoColor=white)
+![Daisy Seed](https://img.shields.io/badge/Daisy_Seed-000000?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Interests:** Wave Digital Filters · circuit modeling · real-time audio · car audio
+
+## 📈 Problem Solving
+
+<!-- Paste your existing solved.ac card code here -->
