@@ -26,4 +26,4 @@ Computer Science student at Dongguk University, Seoul. Guitarist and songwriter,
 **Interests:** Wave Digital Filters · circuit modeling · real-time audio · car audio
 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=logarith3)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=logarith3&layout=pie&langs_count=4&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=pie&langs_count=4&theme=blue_navy)
